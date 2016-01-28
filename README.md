@@ -1,7 +1,8 @@
-Casarest Docker files
-=====================
+AOFlagger Docker files
+======================
 
 
-https://hub.docker.com/r/radioastro/casarest/
+https://hub.docker.com/r/radioastro/aoflagger
 
 
+http://sourceforge.net/p/aoflagger/wiki/Home/
